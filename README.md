@@ -31,6 +31,8 @@
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+![Scene Builder](https://img.shields.io/badge/scene_builder-orange.svg?style=for-the-badge&logo=&logoColor=orange)
+![ClickUp](https://img.shields.io/badge/clickup-%237B68EE.svg?&style=for-the-badge&logo=clickup&logoColor=white)
 
 ---
 ![Eduardo GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardofpaula&show_icons=true&theme=github_dark)
@@ -41,3 +43,4 @@
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:eduardo.fariasp@outlook.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardofariasp)
 [![GitHub](https://img.shields.io/github/followers/eduardofpaula?label=follow&style=social)](https://github.com/eduardofpaula)
+
