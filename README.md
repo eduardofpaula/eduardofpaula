@@ -37,10 +37,12 @@
 ---
 ![Eduardo GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardofpaula&show_icons=true&theme=github_dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardofpaula&layout=compact&theme=github_dark)
+
+[![GitHub](https://img.shields.io/github/followers/eduardofpaula?label=follow&style=social)](https://github.com/eduardofpaula)
 ---
 <h2>My contacts<h2>
-
+	
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:eduardo.fariasp@outlook.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardofariasp)
-[![GitHub](https://img.shields.io/github/followers/eduardofpaula?label=follow&style=social)](https://github.com/eduardofpaula)
+
 
