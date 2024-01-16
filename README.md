@@ -1,7 +1,7 @@
 <h1 align="left"><b>Hi , I'm Eduardo Farias </b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50"></h1>
 
 	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**    [![GitHub](https://img.shields.io/github/followers/eduardofpaula?label=follow&style=social)](https://github.com/eduardofpaula)
 
 <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 - Student passionate about Programming and Technology
@@ -37,8 +37,6 @@
 ---
 ![Eduardo GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardofpaula&show_icons=true&theme=github_dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardofpaula&layout=compact&theme=github_dark)
-
-[![GitHub](https://img.shields.io/github/followers/eduardofpaula?label=follow&style=social)](https://github.com/eduardofpaula)
 ---
 <h2>My contacts<h2>
 	
