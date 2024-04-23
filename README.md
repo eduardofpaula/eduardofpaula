@@ -35,8 +35,9 @@
 ![ClickUp](https://img.shields.io/badge/clickup-%237B68EE.svg?&style=for-the-badge&logo=clickup&logoColor=white)
 
 ---
-![Eduardo GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardofpaula&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardofpaula&layout=compact&theme=github_dark)
+![Eduardo GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardofpaula&show_icons=true&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eduardofpaula&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eduardofpaula&theme=tokyonight)
 ---
 <h2>My contacts<h2>
 	
