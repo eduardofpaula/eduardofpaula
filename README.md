@@ -44,4 +44,7 @@
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:eduardo.fariasp@outlook.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardofariasp)
 
-
+<p>
+    <img src="https://profile-counter.glitch.me/{eduardofpaula}/count.svg" alt="Visitor Count" />
+  </p>
+</div>
