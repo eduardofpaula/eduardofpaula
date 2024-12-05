@@ -6,8 +6,7 @@
 <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 - Student passionate about Programming and Technology
 - Studying Database Technology at Fatec São José dos Campos.
-- Network and hardware intern
-- Studying Java, JavaScript, Python and always developing new software
+- Data science intern
 
 <h2>Technologies</h2>
 
